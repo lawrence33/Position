@@ -1,0 +1,59 @@
+main{
+  width: auto;
+  height: auto;
+  font: 
+}
+
+li {
+  display: inline-block;
+  position: relative;
+  left: 150px;
+  bottom: 75px;
+  font-weight: bold;
+}
+
+nav {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  height: 120px;
+  display: inline-block;
+  background-color: grey;
+}
+
+nav img {
+  vertical align: middle;
+  border-style: 1px solid black;
+  border-radius: 50%;
+}
+
+.box{
+  width: 600px;
+  height: 300px;
+  border: 15px dotted green;
+  margin-left: 25%;
+  position: relative;
+  top: 25%;
+}
+
+.background{
+  width: 2000px;
+  height: 1200px;
+  background-image: url("https://lh3.ggpht.com/R_3FGG3ii9pp_e5iaO5L0Jr224GQnAY1RBKU52s1KbjthXHDN4jNiNbR6ATo620o8g=h900");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cat{
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 350px;
+}
+.dog{
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 1050px;
+  top: 50px;
+}
